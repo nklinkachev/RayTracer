@@ -1,0 +1,7 @@
+E:\Programming\Science\RayTracer\RayTracer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\Science\RayTracer\RayTracer\obj\x86\Debug\RayTracer.pdb
+E:\Programming\Science\RayTracer\RayTracer\bin\Debug\RayTracer.exe
+E:\Programming\Science\RayTracer\RayTracer\bin\Debug\RayTracer.pdb
+E:\Programming\Science\RayTracer\RayTracer\obj\x86\Debug\RayTracer.exe
+D:\Programming\Science\RayTracer\RayTracer\obj\x86\Debug\RayTracer.exe
+D:\Programming\Science\RayTracer\RayTracer\obj\x86\Debug\RayTracer.pdb

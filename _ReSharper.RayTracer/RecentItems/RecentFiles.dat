@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Samplers/f:NRooks.cs" caret="2145" fromTop="35" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Samplers/f:Jittered.cs" caret="210" fromTop="6" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:ViewPlane.cs" caret="584" fromTop="12" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Cameras/f:Camera.cs" caret="998" fromTop="20" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Lights/f:Ambient.cs" caret="599" fromTop="27" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Objects/f:GeometricObject.cs" caret="233" fromTop="10" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Tracers/f:Tracer.cs" caret="195" fromTop="10" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Tracers/f:SingleSphere.cs" caret="176" fromTop="8" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Tracers/f:MultipleObjects.cs" caret="179" fromTop="8" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Tracers/f:Normals.cs" caret="191" fromTop="9" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:Program.cs" caret="226" fromTop="11" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Lights/f:Point.cs" caret="439" fromTop="16" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Lights/f:Light.cs" caret="167" fromTop="8" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:RGBColor.cs" caret="365" fromTop="13" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Tracers/f:RayCast.cs" caret="370" fromTop="14" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:ShadeRec.cs" caret="168" fromTop="8" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:World.cs" caret="1556" fromTop="12" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Objects/f:Plane.cs" caret="931" fromTop="14" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Cameras/f:PinholeCamera.cs" caret="2506" fromTop="34" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Geometry/f:Vector3d.cs" caret="2063" fromTop="29" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:BRDF/f:BRDF.cs" caret="280" fromTop="12" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Geometry/f:Normal.cs" caret="516" fromTop="24" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Samplers/f:Hammersley.cs" caret="193" fromTop="6" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Material.cs" caret="147" fromTop="7" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Samplers/f:Sampler.cs" caret="3620" fromTop="57" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Phong.cs" caret="1202" fromTop="20" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:BRDF/f:GlossySpecular.cs" caret="529" fromTop="14" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:BRDF/f:Lambertian.cs" caret="558" fromTop="21" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Matte.cs" caret="829" fromTop="25" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:BuildFunctions.cs" caret="3939" fromTop="8" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:BuildFunctions.cs" caret="2872" fromTop="5" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:BuildFunctions.cs" caret="3891" fromTop="24" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Cameras/f:PinholeCamera.cs" caret="2766" fromTop="3" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Cameras/f:PinholeCamera.cs" caret="2766" fromTop="16" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Cameras/f:PinholeCamera.cs" caret="2766" fromTop="24" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Geometry/f:Vector3d.cs" caret="2061" fromTop="24" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Objects/f:Plane.cs" caret="657" fromTop="16" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Cameras/f:PinholeCamera.cs" caret="2766" fromTop="18" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Cameras/f:PinholeCamera.cs" caret="2766" fromTop="31" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Cameras/f:PinholeCamera.cs" caret="2766" fromTop="30" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Cameras/f:PinholeCamera.cs" caret="2766" fromTop="31" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:BRDF/f:Lambertian.cs" caret="244" fromTop="11" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Matte.cs" caret="353" fromTop="15" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Matte.cs" caret="490" fromTop="20" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Matte.cs" caret="643" fromTop="26" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:BRDF/f:GlossySpecular.cs" caret="611" fromTop="18" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Samplers/f:Sampler.cs" caret="695" fromTop="18" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:BRDF/f:GlossySpecular.cs" caret="311" fromTop="11" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:BRDF/f:GlossySpecular.cs" caret="1005" fromTop="27" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Phong.cs" caret="1960" fromTop="29" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Phong.cs" caret="1352" fromTop="14" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Samplers/f:Sampler.cs" caret="2061" fromTop="16" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Samplers/f:Sampler.cs" caret="3620" fromTop="18" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:BRDF/f:GlossySpecular.cs" caret="527" fromTop="20" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Phong.cs" caret="243" fromTop="5" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Phong.cs" caret="529" fromTop="12" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Phong.cs" caret="939" fromTop="19" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/d:Materials/f:Phong.cs" caret="1202" fromTop="29" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:BuildFunctions.cs" caret="4164" fromTop="15" />
+    <File id="49B209CF-BB61-4BD4-A610-BE7A13DD4156/f:BuildFunctions.cs" caret="4507" fromTop="25" />
+  </RecentEdits>
+</RecentFiles>
